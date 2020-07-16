@@ -1,0 +1,10 @@
+
+==========================Exercise Checking Report==========================
+Exercise No...........: 2
+First Student Details.: 205477383 - Eran Shmuel
+Second Student Details: 308549807 Harel Levi
+Delivery Date.........: 8 - January - 2020
+Delivered In Delay....: No
+Visual Studio Version.: 2019
+Comments:
+========================End Exercise Checking Report========================

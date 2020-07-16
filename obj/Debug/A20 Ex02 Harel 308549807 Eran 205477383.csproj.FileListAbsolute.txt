@@ -1,0 +1,12 @@
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20_Ex02_HarelLevi_308549807_EranShmuel_205477383.UI.FormFacebook.resources
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20_Ex01_HarelLevi_308549807_EranShmuel_205477383.Properties.Resources.resources
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20_Ex02_HarelLevi_308549807_EranShmuel_205477383.UI.FormUserChoice.resources
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20 Ex02 Harel 308549807 Eran 205477383.csproj.GenerateResource.cache
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20 Ex02 Harel 308549807 Eran 205477383.csprojAssemblyReference.cache
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\bin\Debug\A20 Ex01 HarelLevi 308549807 EranShmuel 205477383.exe
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\bin\Debug\A20 Ex01 HarelLevi 308549807 EranShmuel 205477383.pdb
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\bin\Debug\Facebook.dll
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\bin\Debug\FbGraphApiWrapper.dll
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20 Ex02 Harel 308549807 Eran 205477383.csproj.CopyComplete
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20 Ex01 HarelLevi 308549807 EranShmuel 205477383.exe
+C:\Users\erans\Desktop\לימודים\design patterns\עבודות סופיות\A20 Ex02 HarelLevi 308549807 EranShmuel 205477383\obj\Debug\A20 Ex01 HarelLevi 308549807 EranShmuel 205477383.pdb
